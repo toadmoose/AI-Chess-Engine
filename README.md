@@ -1,0 +1,1 @@
+This project involved following a 16 part series posted on Youtube by Eddie Sharick. This project uses PyCharm and implements AI. Here is a link to the youtube video: https://youtube.com/playlist?list=PLBwF487qi8MGU81nDGaeNE1EnNEPYWKY_&si=dpgAHTsxoraEkiUN
